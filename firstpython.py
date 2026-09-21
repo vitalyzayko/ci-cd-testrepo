@@ -1,1 +1,1 @@
-print "Hello Ci CD"
+print "Hello CI CD"
